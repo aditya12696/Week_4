@@ -1,0 +1,3 @@
+Hello world! This is a test file. This file contains words, words, and more words.
+The goal is to count words in this file and display the most frequent ones.
+Hello again! Counting words is fun. Fun with words!
