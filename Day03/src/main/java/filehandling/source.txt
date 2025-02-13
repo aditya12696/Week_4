@@ -1,0 +1,7 @@
+Hello, this is a sample text file.
+It contains multiple lines of text.
+This file will be copied to another file using Java.
+Name: yguyuyf
+Age: 
+Favorite Language: jkuf"l/
+------------------------------
